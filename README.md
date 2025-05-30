@@ -1,5 +1,5 @@
-I know ist not perfect, i´m just geting started wiht progamin.
+I know it's not perfect — I'm just getting started with programming.
 
-ther ist an bug, the geme over screen didn´t reches the Clinent.
+There is a bug: the game over screen doesn't reach the client.
 
-but hope you have fun, playing and develuping it future.
+But I hope you have fun playing and developing it further in the future.
